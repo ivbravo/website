@@ -1,4 +1,4 @@
-# Online Art Gallery Website
+# Online Art Gallery
 
 Online Art Gallery website
 
@@ -7,7 +7,7 @@ Online Art Gallery website
 * Install dependencies: `bundle install`
 * Load server: `bundle exec jekyll serve`
 * Open: `open -a "Google Chrome" index.html`
-* Load website: `http://localhost:4000` 
+* Load website: `http://localhost:4000`
 
 ### Troubleshooting
 
