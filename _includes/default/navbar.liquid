@@ -34,10 +34,19 @@
             {% endunless %}
             {% assign name_page = page.title | append: name_page %}
         {% endfor %}
-        
+
         {% if site.color_theme == 'auto' %}
         <li class="separator"> | </li>
         <li><a id="theme-toggle" title="{{ page.title }} " aria-label="{{ page.title }}" onclick="themeToggle()"></a></li>
+        <li>
+          {% if site.lang == "es" %}
+          {% capture link %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
+          <a href="{{ link }}" >{% t global.english %}</a>
+          {% elsif site.lang == "en" %}
+          {% capture link %}{{ site.baseurl_root }}{{ page.url }}{% endcapture %}
+          <a href="{{ link }}" >{% t global.spanish %}</a>
+          {% endif %}
+        </li>
         {% endif %}
     </ul>
 
