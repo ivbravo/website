@@ -7,8 +7,9 @@
 			<img alt="logo img" class="avatar" src="{{ site.avatar | relative_url }}" />
 		</a>
         {% endif %}
+        {% capture title %}{% t title %}{% endcapture %}
         <a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
-        {{ site.title }}
+        {{ title }}
 		</a>
 	</div>
 
