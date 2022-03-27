@@ -27,9 +27,10 @@
             {% unless page.title == null or page.hide or name_page contains page.title %}
             <li class="separator"> | </li>
             <li>
-                <a class="clear" aria-label="{{ page.title }}" title="{{ page.title }}" href="{{ page.url | relative_url }}">
+                {% capture title %}{% t page.title %}{% endcapture %}
+                <a class="clear" aria-label="{{ page.title }}" title="{{ title }}" href="{{ page.url | relative_url }}">
                     {% if page.icon %} <i class="fas {{ page.icon }}" aria-hidden="true"></i>
-                    {% else %} {{ page.title }} {% endif%}
+                    {% else %} {{ title }} {% endif%}
                 </a>
             </li>
             {% endunless %}

@@ -1,10 +1,11 @@
 global:
   spanish: Español
   english: English
-pages:
-  about: About
-  home: Home
-  work: Work
-titles:
-  about: "About"
 title: Online Art Gallery
+404: Not Found
+about: About
+gallery: Gallery
+portfolio: Portfolio
+search: Search
+tags: Tags
+welcome: Welcome

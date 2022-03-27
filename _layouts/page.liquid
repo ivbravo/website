@@ -9,8 +9,8 @@ layout: default
       {% if page.hide_title %}
         <div class="feature-image-padding"></div>
       {% else %}
-        {% capture title %}{% t titles.about %}{% endcapture %}
-        <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title"> {{ title }}</h1>
+        {% capture title3 %}{% t page.title %}{% endcapture %}
+        <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title"> {{ title3 }}</h1>
         {% if page.subtitle %}
         <h2 class="subtitle">{{ page.subtitle }}</h2>
         {% endif %}

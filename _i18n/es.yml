@@ -1,10 +1,12 @@
 global:
   spanish: Español
   english: English
-pages:
-  about: Sobre
-  home: Casa
-  work: Trabajo
-titles:
-  about: "Sobre"
 title: Galeria de Arte Online
+404: Error
+about: Biografia
+gallery: Galería
+portfolio: Portafolio
+search: Busca
+tags: Etiqueta
+welcome: Benvenido
+
