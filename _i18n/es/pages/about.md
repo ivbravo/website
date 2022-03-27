@@ -1,2 +1,1 @@
-
-In Spanish
+Texto en español
