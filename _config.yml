@@ -57,3 +57,6 @@ remote_theme: sylhare/Type-on-Strap                     # If using as a remote_t
 
 languages: ["es", "en"]
 exclude_from_localizations: ["javascript", "images", "css"]
+
+image_sliders:
+  - slider1

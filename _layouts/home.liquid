@@ -1,5 +1,6 @@
 ---
 layout: default
+image_sliders: slider1
 ---
 
 <div class="home">
@@ -26,6 +27,6 @@ layout: default
         <h1> {{ header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
     </div>
 
-    {% include blog/blog.liquid %}
+    {% include slider.html selector="slider1" %}
 
 </div>

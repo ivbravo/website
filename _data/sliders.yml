@@ -1,0 +1,21 @@
+- selector: slider1
+  captions: true
+  bullets: true
+  images:
+    - src: /assets/img/portfolio/cabin.png
+      title: Balloons!
+      alt: image one
+    - src: /assets/img/portfolio/cake.png
+      title: NotBallons!
+      alt: image two
+  settings:
+    height: "'auto'"
+    maxHeight: 800
+    interval: 2000
+    transitionDuration: 200
+    effect: "'slide'"
+    disableNav: false
+    keyboardNav: true
+    previousNavSelector:
+    nextNavSelector:
+
