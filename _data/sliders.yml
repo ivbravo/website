@@ -2,17 +2,29 @@
   captions: true
   bullets: true
   images:
-    - src: /assets/img/portfolio/cabin.png
-      title: Balloons!
-      alt: image one
-    - src: /assets/img/portfolio/cake.png
-      title: NotBallons!
-      alt: image two
+    - src: /assets/img/paintings/drawing_1.jpeg
+      alt: drawing one
+    - src: /assets/img/paintings/drawing_2.jpeg
+      alt: drawing two
+    - src: /assets/img/paintings/drawing_3.jpeg
+      alt: drawing three
+    - src: /assets/img/paintings/drawing_4.jpeg
+      alt: drawing four
+    - src: /assets/img/paintings/drawing_5.jpeg
+      alt: drawing five
+    - src: /assets/img/paintings/drawing_6.jpeg
+      alt: drawing six
+    - src: /assets/img/paintings/drawing_7.jpeg
+      alt: drawing seven
+    - src: /assets/img/paintings/drawing_8.jpeg
+      alt: drawing eight
+    - src: /assets/img/paintings/drawing_9.jpeg
+      alt: drawing eight
   settings:
-    height: "'auto'"
-    maxHeight: 800
-    interval: 2000
-    transitionDuration: 200
+    height: 400
+    maxHeight: 1200
+    interval: 5000
+    transitionDuration: 1000
     effect: "'slide'"
     disableNav: false
     keyboardNav: true
