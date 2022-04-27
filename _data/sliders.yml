@@ -3,31 +3,29 @@
   bullets: true
   images:
     - src: /assets/img/paintings/drawing_1.jpeg
-      alt: drawing one
+      title: Guerrero emplumado del sur
     - src: /assets/img/paintings/drawing_2.jpeg
-      alt: drawing two
+      title: Sol de los pastos
     - src: /assets/img/paintings/drawing_3.jpeg
-      alt: drawing three
+      title: Coqueros del sur
     - src: /assets/img/paintings/drawing_4.jpeg
-      alt: drawing four
+      title: Ansestro trenzado
     - src: /assets/img/paintings/drawing_5.jpeg
-      alt: drawing five
+      title: Luna de encanto
     - src: /assets/img/paintings/drawing_6.jpeg
-      alt: drawing six
+      title: Gritones
     - src: /assets/img/paintings/drawing_7.jpeg
-      alt: drawing seven
+      title: Andinos
     - src: /assets/img/paintings/drawing_8.jpeg
-      alt: drawing eight
+      title: Encanto ansestral
     - src: /assets/img/paintings/drawing_9.jpeg
-      alt: drawing eight
+      title: Encanto del solar
   settings:
     height: 400
-    maxHeight: 1200
+    maxHeight: 800
     interval: 5000
     transitionDuration: 1000
     effect: "'slide'"
     disableNav: false
     keyboardNav: true
-    previousNavSelector:
-    nextNavSelector:
 
