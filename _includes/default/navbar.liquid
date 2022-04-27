@@ -8,7 +8,12 @@
 		</a>
         {% endif %}
         {% capture title %}{% t title %}{% endcapture %}
-        <a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
+        {% if site.lang == "es" %}
+        {% capture link %}{{ '/' | relative_url }}{% endcapture %}
+        {% elsif site.lang == "en" %}
+        {% capture link %}{{ '/' | prepend: 'en' | relative_url }}{% endcapture %}
+        {% endif %}
+        <a class="site-title" aria-label="{{ site.title }}" href="{{ link }}">
         {{ title }}
 		</a>
 	</div>
@@ -28,7 +33,12 @@
             <li class="separator"> | </li>
             <li>
                 {% capture title %}{% t page.title %}{% endcapture %}
-                <a class="clear" aria-label="{{ page.title }}" title="{{ title }}" href="{{ page.url | relative_url }}">
+                {% if site.lang == "es" %}
+                {% capture link %}{{ page.url | relative_url }}{% endcapture %}
+                {% elsif site.lang == "en" %}
+                {% capture link %}{{ page.url | prepend: 'en' | relative_url }}{% endcapture %}
+                {% endif %}
+                <a class="clear" aria-label="{{ page.title }}" title="{{ title }}" href="{{ link }}">
                     {% if page.icon %} <i class="fas {{ page.icon }}" aria-hidden="true"></i>
                     {% else %} {{ title }} {% endif%}
                 </a>
