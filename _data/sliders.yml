@@ -21,10 +21,10 @@
     - src: /assets/img/paintings/drawing_9.jpeg
       title: Encanto del solar
   settings:
-    height: 400
-    maxHeight: 800
-    interval: 5000
-    transitionDuration: 1000
+    height: 500
+    maxHeight: 500
+    interval: 4000
+    transitionDuration: 2000
     effect: "'slide'"
     disableNav: false
     keyboardNav: true
