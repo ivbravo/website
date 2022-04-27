@@ -3,7 +3,7 @@
 html { overflow-y: scroll; }
     
 /* To overwrite page's padding, to get bigger images */
-/* article {padding:2%;} */
+/* article {padding:10%;} */
 </style>
 
 <div id='masonry' class="grid">
@@ -12,7 +12,11 @@ html { overflow-y: scroll; }
 {% for image in site.static_files %}
   {% if image.path contains include.gallery_path %}
     {% unless image.path contains '.md' %}
-        <img src="{{ image.path | relative_url }}" alt="" class="grid-item" style="padding: 0;">
+        <div class="grid-item" style="padding: 0;">
+            <h1>Title</h1>
+            <img src="{{ image.path | relative_url }}" alt="">
+        </div>
+
     {% endunless %}  
   {% endif %}
 {% endfor %}
