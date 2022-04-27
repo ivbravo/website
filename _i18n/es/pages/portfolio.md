@@ -1,1 +1,0 @@
-Texto en español
