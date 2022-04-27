@@ -2,7 +2,7 @@
 layout: page
 title: gallery
 permalink: /gallery/
-gallery_path: "assets/img/pexels"
+gallery_path: "assets/img/paintings"
 tags: [Page]
 ---
 
