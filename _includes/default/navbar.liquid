@@ -11,7 +11,7 @@
         {% if site.lang == "es" %}
         {% capture link %}{{ '/' | relative_url }}{% endcapture %}
         {% elsif site.lang == "en" %}
-        {% capture link %}{{ '/' | prepend: 'en' | relative_url }}{% endcapture %}
+        {% capture link %}/{{site.lang}}{% endcapture %}
         {% endif %}
         <a class="site-title" aria-label="{{ site.title }}" href="{{ link }}">
         {{ title }}
@@ -36,7 +36,7 @@
                 {% if site.lang == "es" %}
                 {% capture link %}{{ page.url | relative_url }}{% endcapture %}
                 {% elsif site.lang == "en" %}
-                {% capture link %}{{ page.url | prepend: 'en' | relative_url }}{% endcapture %}
+                {% capture link %}{{ site.url }}/{{site.lang}}{{page.url}}{% endcapture %}
                 {% endif %}
                 <a class="clear" aria-label="{{ page.title }}" title="{{ title }}" href="{{ link }}">
                     {% if page.icon %} <i class="fas {{ page.icon }}" aria-hidden="true"></i>
