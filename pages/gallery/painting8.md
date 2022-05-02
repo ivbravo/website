@@ -4,7 +4,7 @@ title: Encanto ansestral
 hide: true
 painting: true
 permalink: /gallery/painting8
-tags: [ campesinos ]
+tags: [ ancestral, precolombino ]
 ---
 
-![painting1](/assets/img/paintings/drawing_8.jpeg)
+![Encanto ansestral](/assets/img/paintings/drawing_8.jpeg)

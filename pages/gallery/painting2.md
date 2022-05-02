@@ -4,7 +4,7 @@ title: Sol de los pastos
 hide: true
 painting: true
 permalink: /gallery/painting2
-tags: [ campesinos ]
+tags: [ ancestral, precolombino ]
 ---
 
-![painting1](/assets/img/paintings/drawing_2.jpeg)
+![Sol de los pastos](/assets/img/paintings/drawing_2.jpeg)

@@ -4,7 +4,7 @@ title: Andinos
 hide: true
 painting: true
 permalink: /gallery/painting7
-tags: [ campesinos ]
+tags: [ ancestral, precolombino ]
 ---
 
-![painting1](/assets/img/paintings/drawing_7.jpeg)
+![Andinos](/assets/img/paintings/drawing_7.jpeg)

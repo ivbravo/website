@@ -4,7 +4,7 @@ title: Ansestro trenzado
 hide: true
 painting: true
 permalink: /gallery/painting4
-tags: [ campesinos ]
+tags: [ ancestral, precolombino ]
 ---
 
-![painting1](/assets/img/paintings/drawing_4.jpeg)
+![Ansestro trenzado](/assets/img/paintings/drawing_4.jpeg)

@@ -4,7 +4,6 @@ title: Guerrero emplumado del sur
 hide: true
 painting: true
 permalink: /gallery/painting1
-tags: [ campesinos ]
+tags: [ ancestral, precolombino ]
 ---
-
-![painting1](/assets/img/paintings/drawing_1.jpeg)
+![Guerrero emplumado del sur](/assets/img/paintings/drawing_1.jpeg)

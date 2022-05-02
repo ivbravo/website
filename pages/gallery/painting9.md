@@ -4,7 +4,7 @@ title: Encanto del solar
 hide: true
 painting: true
 permalink: /gallery/painting9
-tags: [ campesinos ]
+tags: [ ancestral, precolombino ]
 ---
 
-![painting1](/assets/img/paintings/drawing_9.jpeg)
+![Encanto del solar](/assets/img/paintings/drawing_9.jpeg)

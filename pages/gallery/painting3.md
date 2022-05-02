@@ -4,7 +4,7 @@ title: Coqueros del sur
 hide: true
 painting: true
 permalink: /gallery/painting3
-tags: [ campesinos ]
+tags: [ ancestral, precolombino ]
 ---
 
-![painting1](/assets/img/paintings/drawing_3.jpeg)
+![Coqueros del sur](/assets/img/paintings/drawing_3.jpeg)
