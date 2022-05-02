@@ -2,6 +2,7 @@
 layout: post
 title: Sol de los pastos
 hide: true
+painting: true
 permalink: /gallery/painting2
 tags: [ campesinos ]
 ---

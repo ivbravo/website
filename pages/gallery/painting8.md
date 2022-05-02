@@ -2,6 +2,7 @@
 layout: post
 title: Encanto ansestral
 hide: true
+painting: true
 permalink: /gallery/painting8
 tags: [ campesinos ]
 ---

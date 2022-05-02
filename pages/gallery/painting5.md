@@ -2,6 +2,7 @@
 layout: post
 title: Luna de encanto
 hide: true
+painting: true
 permalink: /gallery/painting5
 tags: [ campesinos ]
 ---

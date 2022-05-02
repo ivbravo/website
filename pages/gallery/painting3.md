@@ -2,6 +2,7 @@
 layout: post
 title: Coqueros del sur
 hide: true
+painting: true
 permalink: /gallery/painting3
 tags: [ campesinos ]
 ---

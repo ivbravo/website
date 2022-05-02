@@ -2,6 +2,7 @@
 layout: post
 title: Gritones
 hide: true
+painting: true
 permalink: /gallery/painting6
 tags: [ campesinos ]
 ---
