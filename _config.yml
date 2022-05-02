@@ -25,7 +25,7 @@ katex: false                                             # Enable if using math 
 mermaid: false                                           # Enable mermaid-js for sequence and diagrams
 google_analytics:                                        # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: true                                     # To respect the usage of cookies
-color_theme: dark                                        # auto, dark or light
+color_theme: auto                                        # auto, dark or light
 
 # Comments
 comments:

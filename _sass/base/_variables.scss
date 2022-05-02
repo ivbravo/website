@@ -28,7 +28,7 @@ $x-sm-break: 320px;
 
 
 /* THEME COLOR SCHEMES */
-html, html[data-theme="light"] {
+html[data-theme="light"] {
   --background: #ffffff;
   --blockquote: #eef7fa;
   --selection: #d4d4d4;
@@ -50,7 +50,7 @@ html, html[data-theme="light"] {
   --border: rgba(0, 0, 0, 0.2);
 }
 
-html[data-theme="dark"] {
+html, html[data-theme="dark"] {
   --background: #22272e; // brand, background
   --blockquote: #373e47; // blockquote
   --selection: #545d68; // selection
@@ -76,7 +76,7 @@ html[data-theme="dark"] {
 
 /* BASE16 CODE HIGHLIGHT */
 // Material Theme
-html, html[data-theme="light"] {
+html[data-theme="light"] {
   --base00: #302f2d; // Default Background
   --base01: #2e3c43; // Lighter Background (Used for status bars) - NOT USED
   --base02: #314549; // Selection Background
@@ -96,7 +96,7 @@ html, html[data-theme="light"] {
 }
 
 // Supernova Theme
-html[data-theme="dark"] {
+html, html[data-theme="dark"] {
   --base00: #373e47; // Default Background
   --base01: #444c56; // Lighter Background (Used for status bars, line number and folding marks)
   --base02: #545d68; // Selection Background
