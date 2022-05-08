@@ -2,7 +2,7 @@
 layout: page
 title: gallery
 permalink: /gallery/
-feature-img: "assets/img/pasto2.jpeg"
+feature-img: "assets/img/pasto.jpeg"
 gallery_path: "assets/img/paintings"
 ---
 
