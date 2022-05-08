@@ -1,4 +1,4 @@
-El gran maestro Iván Bravo es oriundo de la Cruz Nariño, un pueblo situado al suroeste de Colombia.
+El gran maestro Iván Bravo es oriundo de La Cruz Nariño, un pueblo situado al suroeste de Colombia.
 
 Allí, él inició sus estudios siempre destacándose en el ámbito artístico. Desde muy joven plasmaba su originalidad y el arraigo cultural en sus obras. En la ciudad de Pasto, realiza sus estudios en artes plásticas, graduándose como licenciado de la Universidad de Nariño y posteriormente como especialista en pedagogía de la creatividad.
 

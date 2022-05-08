@@ -3,7 +3,8 @@ layout: page
 ---
 
 <!-- Html Elements for Search -->
-<input type="text" id="search-input" placeholder="Enter keywords..." class="search-bar" autofocus>
+{% capture placeholder %}{% t placeholder %}{% endcapture %}
+<input type="text" id="search-input" placeholder="{{ placeholder }}" class="search-bar" autofocus>
 <br>
 <br>
 <ul id="results-container"></ul>

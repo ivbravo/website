@@ -1,7 +1,7 @@
 global:
   spanish: Español
   english: English
-title: Online Art Gallery
+title: Bozetto - Art Gallery
 404: Not Found
 about: About
 gallery: Gallery
@@ -9,3 +9,5 @@ search: Search
 tags: Tags
 welcome: Grandmaster Iván Bravo Ortega
 subheader: Artworks
+placeholder: Enter keywords...
+tags_str: Tags

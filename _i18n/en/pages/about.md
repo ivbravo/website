@@ -1,4 +1,4 @@
-The great teacher Iván Bravo is a native of Cruz Nariño, a town located in the southwest of Colombia.
+The great artist Iván Bravo is a native of La Cruz Nariño, a town located in the southwest of Colombia.
 
 There, he began his studies always standing out in the artistic field. From a very young age he reflected his originality and cultural roots in his works. In the city of Pasto, he studied plastic arts, graduating with a degree from the University of Nariño and later as a specialist in creative pedagogy.
 

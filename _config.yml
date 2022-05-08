@@ -4,7 +4,7 @@ url: "https://ivbravo.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Galería de Arte | Art Gallery                    # site's title
-description: "An online art gallery website"            # used by search engines
+description: "Ivan Bravo art gallery"                   # used by search engines
 avatar: assets/img/author.jpeg                          # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
