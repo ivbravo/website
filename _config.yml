@@ -12,7 +12,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 header_text: welcome                                    # Change Blog header text
 header_feature_image: assets/img/header.jpeg
 header_feature_image_responsive: false
-footer_text: ivan.bravo@gmail.com | Copyright 2022      # Update email
+footer_text: ivanbravo2644@gmail.com | Copyright 2022
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
