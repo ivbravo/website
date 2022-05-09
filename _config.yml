@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/website"
 url: "https://ivbravo.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
