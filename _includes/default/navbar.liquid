@@ -34,7 +34,7 @@
             <li>
                 {% capture title %}{% t page.title %}{% endcapture %}
                 {% if site.lang == "es" %}
-                {% capture link %}{{ page.url | relative_url }}{% endcapture %}
+                {% capture link %}{{ site.baseurl_root }}{{page.url}}{% endcapture %}
                 {% elsif site.lang == "en" %}
                 {% capture link %}{{ site.baseurl_root }}/{{site.lang}}{{page.url}}{% endcapture %}
                 {% endif %}
