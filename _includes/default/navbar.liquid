@@ -11,7 +11,7 @@
         {% if site.lang == "es" %}
         {% capture link %}{{ '/' | relative_url }}{% endcapture %}
         {% elsif site.lang == "en" %}
-        {% capture link %}/{{site.lang}}{% endcapture %}
+        {% capture link %}{{ site.baseurl_root }}/{{site.lang}}{% endcapture %}
         {% endif %}
         <a class="site-title" aria-label="{{ site.title }}" href="{{ link }}">
         {{ title }}

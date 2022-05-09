@@ -7,4 +7,4 @@ permalink: /gallery/painting3/
 tags: [ ancestral, precolombino ]
 ---
 
-![Coqueros del sur](/assets/img/paintings/drawing_3.jpeg)
+![Coqueros del sur](assets/img/paintings/drawing_3.jpeg)

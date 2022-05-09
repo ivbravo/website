@@ -7,4 +7,4 @@ permalink: /gallery/painting6/
 tags: [ ancestral, precolombino ]
 ---
 
-![Gritones](/assets/img/paintings/drawing_6.jpeg)
+![Gritones](assets/img/paintings/drawing_6.jpeg)

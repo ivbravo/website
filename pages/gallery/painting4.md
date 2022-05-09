@@ -7,4 +7,4 @@ permalink: /gallery/painting4/
 tags: [ ancestral, precolombino ]
 ---
 
-![Ansestro trenzado](/assets/img/paintings/drawing_4.jpeg)
+![Ansestro trenzado](assets/img/paintings/drawing_4.jpeg)
