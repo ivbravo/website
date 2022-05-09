@@ -3,7 +3,7 @@ layout: post
 title: Andinos
 hide: true
 painting: true
-permalink: /gallery/painting7
+permalink: /gallery/painting7/
 tags: [ ancestral, precolombino ]
 ---
 

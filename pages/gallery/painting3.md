@@ -3,7 +3,7 @@ layout: post
 title: Coqueros del sur
 hide: true
 painting: true
-permalink: /gallery/painting3
+permalink: /gallery/painting3/
 tags: [ ancestral, precolombino ]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Ansestro trenzado
 hide: true
 painting: true
-permalink: /gallery/painting4
+permalink: /gallery/painting4/
 tags: [ ancestral, precolombino ]
 ---
 
