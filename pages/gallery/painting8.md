@@ -7,4 +7,4 @@ permalink: /gallery/painting8/
 tags: [ ancestral, precolombino ]
 ---
 
-![Encanto ansestral](assets/img/paintings/drawing_8.jpeg)
+![Encanto ansestral](/assets/img/paintings/drawing_8.jpeg)
