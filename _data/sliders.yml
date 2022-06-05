@@ -1,6 +1,6 @@
 - selector: slider1
   captions: true
-  bullets: true
+  bullets: false
   images:
     - src: /assets/img/paintings/drawing_1.jpeg
       title: Guerrero emplumado del sur
@@ -20,6 +20,28 @@
       title: Encanto ansestral
     - src: /assets/img/paintings/drawing_9.jpeg
       title: Encanto del solar
+    - src: /assets/img/paintings/drawing_10.jpeg
+      title: Ocarinas
+    - src: /assets/img/paintings/drawing_11.jpeg
+      title: De la tierra de los pastos
+    - src: /assets/img/paintings/drawing_12.jpeg
+      title: Gesto-ocarina
+    - src: /assets/img/paintings/drawing_13.jpeg
+      title: Gritones
+    - src: /assets/img/paintings/drawing_14.jpeg
+      title: Los del sur
+    - src: /assets/img/paintings/drawing_15.jpeg
+      title: Gestos
+    - src: /assets/img/paintings/drawing_16.jpeg
+      title: Pastos
+    - src: /assets/img/paintings/drawing_17.jpeg
+      title: Niña con cuencos
+    - src: /assets/img/paintings/drawing_18.jpeg
+      title: Niño con ocarinas
+    - src: /assets/img/paintings/drawing_19.jpeg
+      title: Rostros
+    - src: /assets/img/paintings/drawing_20.jpeg
+      title: Del sur de Colombia
   settings:
     height: 500
     maxHeight: 500
