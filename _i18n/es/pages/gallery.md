@@ -1,3 +1,5 @@
+# Legado Andino
+
 | [![drawing_1.jpeg](/assets/img/paintings/drawing_1.jpeg)](/gallery/painting1) | [![drawing_2.jpg](/assets/img/paintings/drawing_2.jpeg)](/gallery/painting2) | [![drawing_3.jpg](/assets/img/paintings/drawing_3.jpeg)](/gallery/painting3) | 
 |:--:|:--:|:--:| 
 | *Guerrero emplumado del sur* <br /> *170x70* <br /> *Oleo sobre lienzo* | *Sol de los pastos* <br /> *100x60* <br /> *Oleo sobre lienzo* | *Coqueros del sur* <br /> *80x60* <br /> *Oleo sobre lienzo* |
@@ -7,6 +9,9 @@
 | [![drawing_7.jpeg](/assets/img/paintings/drawing_7.jpeg)](/gallery/painting7) | [![drawing_8.jpg](/assets/img/paintings/drawing_8.jpeg)](/gallery/painting8) | [![drawing_9.jpg](/assets/img/paintings/drawing_9.jpeg)](/gallery/painting9) | 
 |:--:|:--:|:--:| 
 | *Andinos* <br /> *80x60* <br /> *Oleo sobre lienzo* | *Encanto ansestral* <br /> *110x80* <br /> *Oleo sobre lienzo* | *Encanto del solar* <br /> *110x80* <br /> *Oleo sobre lienzo* |
+
+# Niños del sur
+
 | [![drawing_10.jpeg](/assets/img/paintings/drawing_10.jpeg)](/gallery/painting10) | [![drawing_11.jpg](/assets/img/paintings/drawing_11.jpeg)](/gallery/painting11) | [![drawing_12.jpg](/assets/img/paintings/drawing_12.jpeg)](/gallery/painting12) | 
 |:--:|:--:|:--:| 
 | *Ocarinas* <br /> *60x60* <br /> *Oleo sobre lona* | *De la tierra de los pastos* <br /> *60x85* <br /> *Oleo sobre lona* | *Gesto-ocarina* <br /> *60x60* <br /> *Oleo sobre lona* |
