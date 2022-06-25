@@ -4,7 +4,7 @@ There, he began his studies always standing out in the artistic field. From a ve
 
 Later he traveled to Faenza, Italy, where he became a specialist in Stoneware-Porcelain at the Istituto Statale D'arte per la Cerámica. Throughout his professional life he has worked in the academic sphere, without leaving behind his love for art through his magnificent paintings and to date his works are found both in Colombian and European territory.
 
-![Author](/assets/img/author2.jpeg)
+![Author](/assets/img/author4.jpeg)
 
 “The paintings of Master Iván Bravo that we have before us are a coven of pictorial syllables, where the symbolic and the theoretical are the expression of an ancestral heritage, deeply rooted in the subconsciousness of its author, for 11 years, converted in “potter painter”, earth, clay and history painter.
 
