@@ -4,7 +4,7 @@ Allí, él inició sus estudios siempre destacándose en el ámbito artístico. 
 
 Posteriormente viaja a Faenza, Italia, en donde se convierte en especialista en Gres-Porcelana en el Istituto Statale D’arte per la Cerámica. A lo largo de su vida profesional se ha desempeñado en la esfera académica, sin dejar atrás su amor por el arte a través de sus magníficas pinturas y a la fecha sus obras se encuentran tanto en territorio colombiano como europeo.
 
----
+![Autor](/assets/img/author2.jpeg)
 
 “Los cuadros del Maestro Iván Bravo que tenemos ante nosotros, son un aquelarre de sílabas pictóricas, en donde lo simbólico y lo teórico son la expresión de una herencia ancestral, arraigada muy hondo en la subconciencia de su autor, desde hace 11 años, convertido en “pintor alfarero”, pintor de tierra, de arcilla y de historia. 
 
@@ -20,6 +20,6 @@ Nada más he tratado de tantear en la obscuridad buscando el fondo de la vasija 
 
 Dra. Clara Luz Zúñiga Ortega.
 
----
+![Autor](/assets/img/author3.jpeg)
 
 [Entrevista - 2015](https://www.youtube.com/watch?v=2Sx6Z7vabsQ)
