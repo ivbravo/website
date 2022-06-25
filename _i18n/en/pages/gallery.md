@@ -2,7 +2,7 @@
 
 ### For the rescue of our ancestral legacy
 
-> *Characters of clay and fire who become mute witnessing the passage of centuries and the flourishing and brutal extermination of vast empires and small cultures.<br>As if by the work of tectonic cataclysms in a sort of final judgement, the figures emerge into the surface forming throbbing, gasping archaeological clusters, enveloped in the misty light of the Andean peaks, moved by the wind, like the ears of an archaic wheat field*
+> *"Characters of clay and fire who become mute witnessing the passage of centuries and the flourishing and brutal extermination of vast empires and small cultures.<br>As if by the work of tectonic cataclysms in a sort of final judgement, the figures emerge into the surface forming throbbing, gasping archaeological clusters, enveloped in the misty light of the Andean peaks, moved by the wind, like the ears of an archaic wheat field"*
 
 | [![precolomb_1.jpeg](/assets/img/paintings/precolomb_1.jpeg)](/gallery/precolombinos1) | [![precolomb_2.jpeg](/assets/img/paintings/precolomb_2.jpeg)](/gallery/precolombinos2) | [![precolomb_3.jpeg](/assets/img/paintings/precolomb_3.jpeg)](/gallery/precolombinos3) |
 |:--:|:--:|:--:|
