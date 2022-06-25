@@ -1,3 +1,20 @@
+# Precolombinos
+
+### For the rescue of our ancestral legacy
+
+> *Characters of clay and fire who become mute witnessing the passage of centuries and the flourishing and brutal extermination of vast empires and small cultures.<br>As if by the work of tectonic cataclysms in a sort of final judgement, the figures emerge into the surface forming throbbing, gasping archaeological clusters, enveloped in the misty light of the Andean peaks, moved by the wind, like the ears of an archaic wheat field*
+
+| [![precolomb_1.jpeg](/assets/img/paintings/precolomb_1.jpeg)](/gallery/precolombinos1) | [![precolomb_2.jpeg](/assets/img/paintings/precolomb_2.jpeg)](/gallery/precolombinos2) | [![precolomb_3.jpeg](/assets/img/paintings/precolomb_3.jpeg)](/gallery/precolombinos3) |
+|:--:|:--:|:--:|
+| [![precolomb_4.jpeg](/assets/img/paintings/precolomb_4.jpeg)](/gallery/precolombinos4) | [![precolomb_5.jpeg](/assets/img/paintings/precolomb_5.jpeg)](/gallery/precolombinos5) | [![precolomb_6.jpeg](/assets/img/paintings/precolomb_6.jpeg)](/gallery/precolombinos6) |
+|:--:|:--:|:--:|
+| [![precolomb_7.jpeg](/assets/img/paintings/precolomb_7.jpeg)](/gallery/precolombinos7) | [![precolomb_8.jpeg](/assets/img/paintings/precolomb_8.jpeg)](/gallery/precolombinos8) | [![precolomb_9.jpeg](/assets/img/paintings/precolomb_9.jpeg)](/gallery/precolombinos9) |
+|:--:|:--:|:--:|
+| [![precolomb_10.jpeg](/assets/img/paintings/precolomb_10.jpeg)](/gallery/precolombinos10) | [![precolomb_11.jpeg](/assets/img/paintings/precolomb_11.jpeg)](/gallery/precolombinos11) | [![precolomb_12.jpeg](/assets/img/paintings/precolomb_12.jpeg)](/gallery/precolombinos12) |
+|:--:|:--:|:--:|
+| [![precolomb_13.jpeg](/assets/img/paintings/precolomb_13.jpeg)](/gallery/precolombinos13) | [![precolomb_14.jpeg](/assets/img/paintings/precolomb_14.jpeg)](/gallery/precolombinos14) | [![precolomb_15.jpeg](/assets/img/paintings/precolomb_15.jpeg)](/gallery/precolombinos15) |
+|:--:|:--:|:--:|
+
 # Legado Andino
 
 | [![drawing_1.jpeg](/assets/img/paintings/drawing_1.jpeg)](/gallery/painting1) | [![drawing_2.jpg](/assets/img/paintings/drawing_2.jpeg)](/gallery/painting2) | [![drawing_3.jpg](/assets/img/paintings/drawing_3.jpeg)](/gallery/painting3) | 
