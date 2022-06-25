@@ -78,10 +78,7 @@ gulp.task('thumbnails', function () {
       '*.*': settings,
     }))
     .pipe(gulp.dest('img/thumbnails/feature-img'))
-});
-
-
-gulp.task('thumbnails-all', function () {
+});gulp.task('thumbnails-all', function () {
   let settings = {
     width: '50%',
     //format: 'jpeg', // convert to jpeg format
