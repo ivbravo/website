@@ -23,7 +23,7 @@ post_navigation: true
 # For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
 katex: false                                             # Enable if using math markup
 mermaid: false                                           # Enable mermaid-js for sequence and diagrams
-google_analytics: G-29HPLBP4QY                           # Tracking ID, e.g. "UA-000000-01"
+google_analytics: "G-29HPLBP4QY"                         # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: true                                     # To respect the usage of cookies
 color_theme: auto                                        # auto, dark or light
 
