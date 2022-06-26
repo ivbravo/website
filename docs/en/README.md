@@ -6,7 +6,7 @@ Online Art Gallery website project.
 
 * Install dependencies: `bundle install`
 * Load server: `bundle exec jekyll serve`
-* Load website: `http://localhost:4000`
+* Load website: `https://bozettoartgallery.com`
 
 ### Troubleshooting
 
