@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sin Título
+title: Sur andino
 hide: true
 painting: true
 permalink: /gallery/precolombinos11/
 tags: [ precolombinos ]
 ---
 
-![Sin Título](/assets/img/paintings/precolomb_11.jpeg)
+![Sur andino](/assets/img/paintings/precolomb_11.jpeg)

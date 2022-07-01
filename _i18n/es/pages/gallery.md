@@ -6,14 +6,19 @@
 
 | [![precolomb_1.jpeg](/assets/img/paintings/precolomb_1.jpeg)](/gallery/precolombinos1) | [![precolomb_2.jpeg](/assets/img/paintings/precolomb_2.jpeg)](/gallery/precolombinos2) | [![precolomb_3.jpeg](/assets/img/paintings/precolomb_3.jpeg)](/gallery/precolombinos3) |
 |:--:|:--:|:--:|
+| *Tesoro quimbaya* <br /> *120x65* <br /> *Oleo sobre lienzo* | *Hallazgo quillacinga* <br /> *110x70* <br /> *Oleo sobre lienzo* | *Tumaco - Antropomorfo* <br /> *100x100* <br /> *Oleo sobre lienzo* |
 | [![precolomb_4.jpeg](/assets/img/paintings/precolomb_4.jpeg)](/gallery/precolombinos4) | [![precolomb_5.jpeg](/assets/img/paintings/precolomb_5.jpeg)](/gallery/precolombinos5) | [![precolomb_6.jpeg](/assets/img/paintings/precolomb_6.jpeg)](/gallery/precolombinos6) |
 |:--:|:--:|:--:|
+| *Guaca andina* <br /> *120x80* <br /> *Oleo sobre lienzo* | *Sobrecogimiento quimbaya* <br /> *90x70* <br /> *Oleo sobre lienzo* | *De oro quimbaya* <br /> *110x75* <br /> *Oleo sobre lienzo* |
 | [![precolomb_7.jpeg](/assets/img/paintings/precolomb_7.jpeg)](/gallery/precolombinos7) | [![precolomb_8.jpeg](/assets/img/paintings/precolomb_8.jpeg)](/gallery/precolombinos8) | [![precolomb_9.jpeg](/assets/img/paintings/precolomb_9.jpeg)](/gallery/precolombinos9) |
 |:--:|:--:|:--:|
+| *Crisol ancestral* <br /> *150x150* <br /> *Oleo sobre lienzo* | *Desenterramiento* <br /> *110x70* <br /> *Oleo sobre lienzo* | *Emergentes de la montaña* <br /> *75x110* <br /> *Oleo sobre lienzo* |
 | [![precolomb_10.jpeg](/assets/img/paintings/precolomb_10.jpeg)](/gallery/precolombinos10) | [![precolomb_11.jpeg](/assets/img/paintings/precolomb_11.jpeg)](/gallery/precolombinos11) | [![precolomb_12.jpeg](/assets/img/paintings/precolomb_12.jpeg)](/gallery/precolombinos12) |
 |:--:|:--:|:--:|
+| *De las montañas del sur* <br /> *100x80* <br /> *Oleo sobre lienzo* | *Sur andino* <br /> *110x80* <br /> *Oleo sobre lienzo* | *De la tierra muisca* <br /> *100x80* <br /> *Oleo sobre lienzo* |
 | [![precolomb_13.jpeg](/assets/img/paintings/precolomb_13.jpeg)](/gallery/precolombinos13) | [![precolomb_14.jpeg](/assets/img/paintings/precolomb_14.jpeg)](/gallery/precolombinos14) | [![precolomb_15.jpeg](/assets/img/paintings/precolomb_15.jpeg)](/gallery/precolombinos15) |
 |:--:|:--:|:--:|
+| *Tabloides* <br /> *110x80* <br /> *Oleo sobre lienzo* | *Vestigio Indio* <br /> *100x85* <br /> *Oleo sobre lienzo* | *Hallazgo en el sur* <br /> *100x75* <br /> *Oleo sobre lienzo* |
 
 # Legado Andino
 

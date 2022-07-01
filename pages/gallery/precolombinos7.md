@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sin Título
+title: Crisol ancestral
 hide: true
 painting: true
 permalink: /gallery/precolombinos7/
 tags: [ precolombinos ]
 ---
 
-![Sin Título](/assets/img/paintings/precolomb_7.jpeg)
+![Crisol ancestral](/assets/img/paintings/precolomb_7.jpeg)

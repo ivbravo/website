@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sin Título
+title: Tabloides
 hide: true
 painting: true
 permalink: /gallery/precolombinos13/
 tags: [ precolombinos ]
 ---
 
-![Sin Título](/assets/img/paintings/precolomb_13.jpeg)
+![Tabloides](/assets/img/paintings/precolomb_13.jpeg)

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sin Título
+title: De oro quimbaya
 hide: true
 painting: true
 permalink: /gallery/precolombinos6/
 tags: [ precolombinos ]
 ---
 
-![Sin Título](/assets/img/paintings/precolomb_6.jpeg)
+![De oro quimbaya](/assets/img/paintings/precolomb_6.jpeg)

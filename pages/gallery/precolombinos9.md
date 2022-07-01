@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sin Título
+title: Emergentes de la montaña
 hide: true
 painting: true
 permalink: /gallery/precolombinos9/
 tags: [ precolombinos ]
 ---
 
-![Sin Título](/assets/img/paintings/precolomb_9.jpeg)
+![Emergentes de la montaña](/assets/img/paintings/precolomb_9.jpeg)

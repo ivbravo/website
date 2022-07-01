@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sin Título
+title: Desenterramiento
 hide: true
 painting: true
 permalink: /gallery/precolombinos8/
 tags: [ precolombinos ]
 ---
 
-![Sin Título](/assets/img/paintings/precolomb_8.jpeg)
+![Desenterramiento](/assets/img/paintings/precolomb_8.jpeg)

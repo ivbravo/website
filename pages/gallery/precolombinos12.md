@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sin Título
+title: De la tierra muisca
 hide: true
 painting: true
 permalink: /gallery/precolombinos12/
 tags: [ precolombinos ]
 ---
 
-![Sin Título](/assets/img/paintings/precolomb_12.jpeg)
+![De la tierra muisca](/assets/img/paintings/precolomb_12.jpeg)

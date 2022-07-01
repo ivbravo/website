@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sin Título
+title: Hallazgo en el sur
 hide: true
 painting: true
 permalink: /gallery/precolombinos15/
 tags: [ precolombinos ]
 ---
 
-![Sin Título](/assets/img/paintings/precolomb_15.jpeg)
+![Hallazgo en el sur](/assets/img/paintings/precolomb_15.jpeg)

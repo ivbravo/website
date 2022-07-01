@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sin Título
+title: De las montañas del sur
 hide: true
 painting: true
 permalink: /gallery/precolombinos10/
 tags: [ precolombinos ]
 ---
 
-![Sin Título](/assets/img/paintings/precolomb_10.jpeg)
+![De las montañas del sur](/assets/img/paintings/precolomb_10.jpeg)
