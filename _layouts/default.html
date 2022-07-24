@@ -3,12 +3,12 @@
   {% include default/head.liquid %}
   <body>
     {% include default/navbar.liquid %}
-
     <div class="content" style="width:90%; margin:0 auto;">
       {{ content }}
       {% include slider_scripts.html %}
     </div>
 
     {% include default/footer.liquid %}
+    {% include open-embed.html %}
   </body>
 </html>
