@@ -23,3 +23,6 @@ for d in _site/en/gallery/*/ ; do
     cat _site/en/gallery/${dir##*/}/index.html | grep . > docs/en/gallery/${dir##*/}/index.html
     sed -i '' 's#http://localhost:4000#https://bozettoartgallery.com#g' docs/en/gallery/${dir##*/}/index.html
 done
+
+cp -rf _site/assets/. docs/assets/.
+cp -rf _site/en/assets/. docs/en/assets/.
