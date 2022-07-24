@@ -16,7 +16,7 @@
 
 ---
 
-| [![precolomb_7.jpeg](/assets/img/paintings/precolomb_7.jpeg)](/en/allery/precolombinos7) | [![precolomb_8.jpeg](/assets/img/paintings/precolomb_8.jpeg)](/en/gallery/precolombinos8) | [![precolomb_9.jpeg](/assets/img/paintings/precolomb_9.jpeg)](/en/gallery/precolombinos9) |
+| [![precolomb_7.jpeg](/assets/img/paintings/precolomb_7.jpeg)](/en/gallery/precolombinos7) | [![precolomb_8.jpeg](/assets/img/paintings/precolomb_8.jpeg)](/en/gallery/precolombinos8) | [![precolomb_9.jpeg](/assets/img/paintings/precolomb_9.jpeg)](/en/gallery/precolombinos9) |
 |:--:|:--:|:--:|
 | *Crisol ancestral* <br /> *150x150* <br /> *Oil on canvas* | *Desenterramiento* <br /> *110x70* <br /> *Oil on canvas* | *Emergentes de la montaña* <br /> *75x110* <br /> *Oil on canvas* |
 
