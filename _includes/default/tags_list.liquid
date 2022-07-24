@@ -4,7 +4,8 @@
   <div class="tag-list">
     <ul>
       {% if tags.size == 1 %}
-        <li class="meta">Tag</li>
+        {% capture tag_str %}{% t tag_str %}{% endcapture %}
+        <li class="meta">{{ tag_str }}</li>
       {% else %}
         {% capture tags_str %}{% t tags_str %}{% endcapture %}
         <li class="meta">{{ tags_str }}</li>
