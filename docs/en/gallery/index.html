@@ -1,302 +1,515 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
+  <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0.5, maximum-scale=5">
-
     <!-- Theme Mode-->
-
+    
     <script>
         const isAutoTheme = true;
         document.documentElement.setAttribute('data-theme', sessionStorage.getItem('theme'))
-    </script>    <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)-->
+    </script>
+    
+    <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)-->
     <script defer src="/assets/js/main.min.js"></script>
-
     <!-- CSS -->
     <link rel="stylesheet" href="/assets/css/main.css">
-
     <!--Favicon-->
     <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-    <!-- KaTeX 0.15.2 -->    <!-- Mermaid 8.13.10 -->    <!-- Simple Jekyll Search 1.9.1 -->
+    
+    <!-- KaTeX 0.15.2 -->
+    
+    <!-- Mermaid 8.13.10 -->
+    
+    <!-- Simple Jekyll Search 1.9.1 -->
     <script src="/assets/js/vendor/simple-jekyll-search.min.js" type="text/javascript"></script>
-
     <!-- Google Analytics / Cookie Consent -->
     <script>
       const cookieName = 'cookie-notice-dismissed-https://bozettoartgallery.com';
       const isCookieConsent = 'true';
       const analyticsName = 'G-29HPLBP4QY';
-    </script>    <span id="cookie-notice"><span>We would like to use third party cookies and scripts to improve the functionality of this website.
+    </script>
+    
+        <span id="cookie-notice"><span>We would like to use third party cookies and scripts to improve the functionality of this website.
           </span><a id="cookie-notice-accept" class="button">Approve</a>
         </span>
-
-    <!-- Global site tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-29HPLBP4QY"></script>
-    <!-- Page analysis (analytics.js) -->
-    <script async src='https://www.google-analytics.com/analytics.js'></script>
-
+    
+    
+        <!-- Global site tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-29HPLBP4QY"></script>
+        <!-- Page analysis (analytics.js) -->
+        <script async src='https://www.google-analytics.com/analytics.js'></script>
+    
     <!-- seo tags -->
     <meta property="og:image" content="https://bozettoartgallery.com/assets/img/pasto.jpeg">
-
+    
     <meta property="og:type" content="website" />
-
+    
     <!-- Begin Jekyll SEO tag v2.7.1 -->
-    <title>gallery | Galería de Arte Art Gallery</title>
-    <meta name="generator" content="Jekyll v4.2.2" />
-    <meta property="og:title" content="gallery" />
-    <meta property="og:locale" content="en" />
-    <meta name="description" content="Ivan Bravo art gallery" />
-    <meta property="og:description" content="Ivan Bravo art gallery" />
-    <link rel="canonical" href="https://bozettoartgallery.com/gallery/" />
-    <meta property="og:url" content="https://bozettoartgallery.com/gallery/" />
-    <meta property="og:site_name" content="Galería de Arte Art Gallery" />
-    <meta name="twitter:card" content="summary" />
-    <meta property="twitter:title" content="gallery" />
-    <script type="application/ld+json">
-        {"@type":"WebPage","url":"https://bozettoartgallery.com/gallery/","description":"Ivan Bravo art gallery","headline":"gallery","@context":"https://schema.org"}</script>
-    <!-- End Jekyll SEO tag -->    <!-- RSS -->
+<title>gallery | Galería de Arte Art Gallery</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="gallery" />
+<meta property="og:locale" content="es" />
+<meta name="description" content="Ivan Bravo art gallery" />
+<meta property="og:description" content="Ivan Bravo art gallery" />
+<link rel="canonical" href="https://bozettoartgallery.com/gallery/" />
+<meta property="og:url" content="https://bozettoartgallery.com/gallery/" />
+<meta property="og:site_name" content="Galería de Arte Art Gallery" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="gallery" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"https://bozettoartgallery.com/gallery/","description":"Ivan Bravo art gallery","headline":"gallery","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+    <!-- RSS -->
     <link rel="alternate" type="application/atom+xml" title="Galería de Arte | Art Gallery" href="https://bozettoartgallery.com/feed.xml"/>
     <link type="application/atom+xml" rel="alternate" href="https://bozettoartgallery.com/feed.xml" title="Galería de Arte | Art Gallery" />
-
     <!-- Twitter Cards -->
     <meta name="twitter:title" content="gallery">
     <meta name="twitter:description" content="{% translate_file pages/gallery.md %}">
-
+    
     <meta name="twitter:card" content="summary">
     <meta name="twitter:image" content="https://bozettoartgallery.com/assets/img/pasto.jpeg">
     <meta name="twitter:image:alt" content="gallery">
-
     <!-- Jekyll Ideal Image Slider Include -->
-    <!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
-    <!-- v1.8 -->
-
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
 </head>
-
-<body>
-<header class="site-header">
-
+  <body>
+    <header class="site-header">
     <!-- Logo and title -->
-    <div class="branding">
-
-        <a href="/">
-            <img alt="logo img" class="avatar" src="/assets/img/author2.jpeg" />
-        </a>
-        <a class="site-title" aria-label="Galería de Arte | Art Gallery" href="/en">
-            Bozetto - Art Gallery
-        </a>
-    </div>
-
+	<div class="branding">
+        
+		<a href="/">
+			<img alt="logo img" class="avatar" src="/assets/img/author2.jpeg" />
+		</a>
+        
+        
+        
+        <a class="site-title" aria-label="Galería de Arte | Art Gallery" href="/">
+        Bozetto - Galería de Arte
+		</a>
+	</div>
     <!-- Toggle menu -->
     <nav class="clear">
-        <a aria-label="pull" id="pull" class="toggle" href="#">
-            <i class="fas fa-bars fa-lg"></i>
-        </a>
-
-        <!-- Menu -->
-        <ul class="hide">
-
+    <a aria-label="pull" id="pull" class="toggle" href="#">
+    <i class="fas fa-bars fa-lg"></i>
+    </a>
+    <!-- Menu -->
+    <ul class="hide">
+        
+        
+            
+            
+        
+            
             <li class="separator"> | </li>
-            <li>                <a class="clear" aria-label="about" title="About" href="/en/about/">
-                    About
+            <li>
+                
+                
+                <a class="clear" aria-label="about" title="Biografía" href="/en/about/">
+                     Biografía 
                 </a>
             </li>
-
+            
+            
+        
+            
             <li class="separator"> | </li>
-            <li>                <a class="clear" aria-label="gallery" title="Gallery" href="/en/gallery/">
-                    Gallery
+            <li>
+                
+                
+                <a class="clear" aria-label="gallery" title="Galería" href="/en/gallery/">
+                     Galería 
                 </a>
             </li>
-
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
             <li class="separator"> | </li>
-            <li>                <a class="clear" aria-label="search" title="Search" href="/en/search/">
-                    <i class="fas fa-search" aria-hidden="true"></i>
-
+            <li>
+                
+                
+                <a class="clear" aria-label="search" title="Busca" href="/en/search/">
+                     <i class="fas fa-search" aria-hidden="true"></i>
+                    
                 </a>
             </li>
-
+            
+            
+        
+            
             <li class="separator"> | </li>
-            <li>                <a class="clear" aria-label="tags" title="Tags" href="/en/tags/">
-                    <i class="fas fa-tags" aria-hidden="true"></i>
-
+            <li>
+                
+                
+                <a class="clear" aria-label="tags" title="Etiquetas" href="/en/tags/">
+                     <i class="fas fa-tags" aria-hidden="true"></i>
+                    
                 </a>
             </li>
-
-            <li class="separator"> | </li>
-            <li><a id="theme-toggle" title="gallery " aria-label="gallery" onclick="themeToggle()"></a></li>
-            <li>                <a href="/gallery/" >Español</a>
-
-            </li>
-        </ul>
-
-    </nav>
-</header><div class="content" style="width:90%; margin:0 auto;">
-    <article class="feature-image">
-
-        <header id="main" style="background-image: url('/assets/img/pasto.jpeg')">
-            <div class="title-padder">                <h1 id="gallery" class="title"> Gallery</h1>            </div>
-        </header>
-
-        <section class="post-content">
-
-            <h1 id="precolombinos">Precolombinos</h1>
-
-            <h3 id="for-the-rescue-of-our-ancestral-legacy">For the rescue of our ancestral legacy</h3>
-
-            <blockquote>
-                <p><em>“Characters of clay and fire who become mute witnessing the passage of centuries and the flourishing and brutal extermination of vast empires and small cultures.<br />As if by the work of tectonic cataclysms in a sort of final judgement, the figures emerge into the surface forming throbbing, gasping archaeological clusters, enveloped in the misty light of the Andean peaks, moved by the wind, like the ears of an archaic wheat field”</em></p>
-            </blockquote>
-
-            <table>
-                <thead>
-                <tr>
-                    <th style="text-align: center"><a href="/gallery/precolombinos1"><img src="/assets/img/paintings/precolomb_1.jpeg" alt="precolomb_1.jpeg" /></a></th>
-                    <th style="text-align: center"><a href="/gallery/precolombinos2"><img src="/assets/img/paintings/precolomb_2.jpeg" alt="precolomb_2.jpeg" /></a></th>
-                    <th style="text-align: center"><a href="/gallery/precolombinos3"><img src="/assets/img/paintings/precolomb_3.jpeg" alt="precolomb_3.jpeg" /></a></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <td style="text-align: center"><a href="/gallery/precolombinos4"><img src="/assets/img/paintings/precolomb_4.jpeg" alt="precolomb_4.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/precolombinos5"><img src="/assets/img/paintings/precolomb_5.jpeg" alt="precolomb_5.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/precolombinos6"><img src="/assets/img/paintings/precolomb_6.jpeg" alt="precolomb_6.jpeg" /></a></td>
-                </tr>
-                </tbody>
-                <tbody>
-                <tr>
-                    <td style="text-align: center"><a href="/gallery/precolombinos7"><img src="/assets/img/paintings/precolomb_7.jpeg" alt="precolomb_7.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/precolombinos8"><img src="/assets/img/paintings/precolomb_8.jpeg" alt="precolomb_8.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/precolombinos9"><img src="/assets/img/paintings/precolomb_9.jpeg" alt="precolomb_9.jpeg" /></a></td>
-                </tr>
-                </tbody>
-                <tbody>
-                <tr>
-                    <td style="text-align: center"><a href="/gallery/precolombinos10"><img src="/assets/img/paintings/precolomb_10.jpeg" alt="precolomb_10.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/precolombinos11"><img src="/assets/img/paintings/precolomb_11.jpeg" alt="precolomb_11.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/precolombinos12"><img src="/assets/img/paintings/precolomb_12.jpeg" alt="precolomb_12.jpeg" /></a></td>
-                </tr>
-                </tbody>
-                <tbody>
-                <tr>
-                    <td style="text-align: center"><a href="/gallery/precolombinos13"><img src="/assets/img/paintings/precolomb_13.jpeg" alt="precolomb_13.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/precolombinos14"><img src="/assets/img/paintings/precolomb_14.jpeg" alt="precolomb_14.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/precolombinos15"><img src="/assets/img/paintings/precolomb_15.jpeg" alt="precolomb_15.jpeg" /></a></td>
-                </tr>
-                </tbody>
-            </table>
-
-            <h1 id="legado-andino">Legado Andino</h1>
-
-            <table>
-                <thead>
-                <tr>
-                    <th style="text-align: center"><a href="/gallery/painting1"><img src="/assets/img/paintings/drawing_1.jpeg" alt="drawing_1.jpeg" /></a></th>
-                    <th style="text-align: center"><a href="/gallery/painting2"><img src="/assets/img/paintings/drawing_2.jpeg" alt="drawing_2.jpg" /></a></th>
-                    <th style="text-align: center"><a href="/gallery/painting3"><img src="/assets/img/paintings/drawing_3.jpeg" alt="drawing_3.jpg" /></a></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <td style="text-align: center"><em>Guerrero emplumado del sur</em> <br /> <em>170x70</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Sol de los pastos</em> <br /> <em>100x60</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Coqueros del sur</em> <br /> <em>80x60</em> <br /> <em>Oil on canvas</em></td>
-                </tr>
-                <tr>
-                    <td style="text-align: center"><a href="/gallery/painting4"><img src="/assets/img/paintings/drawing_4.jpeg" alt="drawing_4.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/painting5"><img src="/assets/img/paintings/drawing_5.jpeg" alt="drawing_5.jpg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/painting6"><img src="/assets/img/paintings/drawing_6.jpeg" alt="drawing_6.jpg" /></a></td>
-                </tr>
-                </tbody>
-                <tbody>
-                <tr>
-                    <td style="text-align: center"><em>Ansestro trenzado</em> <br /> <em>100x60</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Luna de encanto</em> <br /> <em>100x60</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Gritones</em> <br /> <em>100x60</em> <br /> <em>Oil on canvas</em></td>
-                </tr>
-                <tr>
-                    <td style="text-align: center"><a href="/gallery/painting7"><img src="/assets/img/paintings/drawing_7.jpeg" alt="drawing_7.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/painting8"><img src="/assets/img/paintings/drawing_8.jpeg" alt="drawing_8.jpg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/painting9"><img src="/assets/img/paintings/drawing_9.jpeg" alt="drawing_9.jpg" /></a></td>
-                </tr>
-                </tbody>
-                <tbody>
-                <tr>
-                    <td style="text-align: center"><em>Andinos</em> <br /> <em>80x60</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Encanto ansestral</em> <br /> <em>110x80</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Encanto del solar</em> <br /> <em>110x80</em> <br /> <em>Oil on canvas</em></td>
-                </tr>
-                </tbody>
-            </table>
-
-            <h1 id="niños-del-sur">Niños del sur</h1>
-
-            <table>
-                <thead>
-                <tr>
-                    <th style="text-align: center"><a href="/gallery/painting10"><img src="/assets/img/paintings/drawing_10.jpeg" alt="drawing_10.jpeg" /></a></th>
-                    <th style="text-align: center"><a href="/gallery/painting11"><img src="/assets/img/paintings/drawing_11.jpeg" alt="drawing_11.jpg" /></a></th>
-                    <th style="text-align: center"><a href="/gallery/painting12"><img src="/assets/img/paintings/drawing_12.jpeg" alt="drawing_12.jpg" /></a></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <td style="text-align: center"><em>Ocarinas</em> <br /> <em>60x60</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>De la tierra de los pastos</em> <br /> <em>60x85</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Gesto-ocarina</em> <br /> <em>60x60</em> <br /> <em>Oil on canvas</em></td>
-                </tr>
-                <tr>
-                    <td style="text-align: center"><a href="/gallery/painting13"><img src="/assets/img/paintings/drawing_13.jpeg" alt="drawing_13.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/painting14"><img src="/assets/img/paintings/drawing_14.jpeg" alt="drawing_14.jpg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/painting15"><img src="/assets/img/paintings/drawing_15.jpeg" alt="drawing_15.jpg" /></a></td>
-                </tr>
-                </tbody>
-                <tbody>
-                <tr>
-                    <td style="text-align: center"><em>Gritones</em> <br /> <em>60x85</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Los del sur</em> <br /> <em>60x60</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Gestos</em> <br /> <em>60x60</em> <br /> <em>Oil on canvas</em></td>
-                </tr>
-                <tr>
-                    <td style="text-align: center"><a href="/gallery/painting16"><img src="/assets/img/paintings/drawing_16.jpeg" alt="drawing_16.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/painting17"><img src="/assets/img/paintings/drawing_17.jpeg" alt="drawing_17.jpg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/painting18"><img src="/assets/img/paintings/drawing_18.jpeg" alt="drawing_18.jpg" /></a></td>
-                </tr>
-                </tbody>
-                <tbody>
-                <tr>
-                    <td style="text-align: center"><em>Pastos</em> <br /> <em>60x60</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Niña con cuencos</em> <br /> <em>60x60</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Niño con ocarinas</em> <br /> <em>60x60</em> <br /> <em>Oil on canvas</em></td>
-                </tr>
-                <tr>
-                    <td style="text-align: center"><a href="/gallery/painting19"><img src="/assets/img/paintings/drawing_19.jpeg" alt="drawing_19.jpeg" /></a></td>
-                    <td style="text-align: center"><a href="/gallery/painting20"><img src="/assets/img/paintings/drawing_20.jpeg" alt="drawing_20.jpg" /></a></td>
-                    <td style="text-align: center"> </td>
-                </tr>
-                </tbody>
-                <tbody>
-                <tr>
-                    <td style="text-align: center"><em>Rostros</em> <br /> <em>60x60</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"><em>Del sur de Colombia</em> <br /> <em>60x85</em> <br /> <em>Oil on canvas</em></td>
-                    <td style="text-align: center"> </td>
-                </tr>
-                </tbody>
-            </table>
-        </section>        <!-- Tag list for portfolio -->
-
-        <div class="tag-list"></div>
-    </article>
-
-    <!-- Jekyll Ideal Image Slider Include -->
-    <!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
-    <!-- v1.8 -->
-</div>
-
-<footer class="site-footer">
+            
+            
+        
+            
+            
+        
+        <li class="separator"> | </li>
+        <li><a id="theme-toggle" title="gallery " aria-label="gallery" onclick="themeToggle()"></a></li>
+        <li>
+          
+          
+          <a href="/en/en/gallery/" >English</a>
+          
+        </li>
+    </ul>
+	</nav>
+</header>
+    <div class="content" style="width:90%; margin:0 auto;">
+      <article class="feature-image">
+  <header id="main" style="background-image: url('/assets/img/pasto.jpeg')">
+    <div class="title-padder">
+      
+        
+        <h1 id="gallery" class="title"> Galería</h1>
+        
+      
+    </div>
+  </header>
+  <section class="post-content">
+  
+	<h1 id="precolombinos">Precolombinos</h1>
+<h3 id="por-el-rescate-de-nuestro-legado-ancestral">Por el rescate de nuestro legado ancestral</h3>
+<blockquote>
+  <p><em>“Personajes de barro y fuego que se convierten en testigos mudos del paso de los siglos, del floreciente y brutal exterminio de vastos imperios y pequeñas culturas.<br />Como por obra de cataclismos tectónicos en una suerte de juicio final, las figuras afloran a la superficie formando racimos arqueológicos palpitantes, jadeantes, envueltos en la luz neblinosa de las cumbres andinas, movidas por el viento, como las espigas de un arcaico trigal”</em></p>
+</blockquote>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><a href="/gallery/precolombinos1"><img src="/assets/img/paintings/precolomb_1.jpeg" alt="precolomb_1.jpeg" /></a></th>
+      <th style="text-align: center"><a href="/gallery/precolombinos2"><img src="/assets/img/paintings/precolomb_2.jpeg" alt="precolomb_2.jpeg" /></a></th>
+      <th style="text-align: center"><a href="/gallery/precolombinos3"><img src="/assets/img/paintings/precolomb_3.jpeg" alt="precolomb_3.jpeg" /></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Tesoro quimbaya</em> <br /> <em>120x65</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Hallazgo quillacinga</em> <br /> <em>110x70</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Tumaco - Antropomorfo</em> <br /> <em>100x100</em> <br /> <em>Oleo sobre lienzo</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="/gallery/precolombinos4"><img src="/assets/img/paintings/precolomb_4.jpeg" alt="precolomb_4.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/precolombinos5"><img src="/assets/img/paintings/precolomb_5.jpeg" alt="precolomb_5.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/precolombinos6"><img src="/assets/img/paintings/precolomb_6.jpeg" alt="precolomb_6.jpeg" /></a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Guaca andina</em> <br /> <em>120x80</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Sobrecogimiento quimbaya</em> <br /> <em>90x70</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>De oro quimbaya</em> <br /> <em>110x75</em> <br /> <em>Oleo sobre lienzo</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="/gallery/precolombinos7"><img src="/assets/img/paintings/precolomb_7.jpeg" alt="precolomb_7.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/precolombinos8"><img src="/assets/img/paintings/precolomb_8.jpeg" alt="precolomb_8.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/precolombinos9"><img src="/assets/img/paintings/precolomb_9.jpeg" alt="precolomb_9.jpeg" /></a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Crisol ancestral</em> <br /> <em>150x150</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Desenterramiento</em> <br /> <em>110x70</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Emergentes de la montaña</em> <br /> <em>75x110</em> <br /> <em>Oleo sobre lienzo</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="/gallery/precolombinos10"><img src="/assets/img/paintings/precolomb_10.jpeg" alt="precolomb_10.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/precolombinos11"><img src="/assets/img/paintings/precolomb_11.jpeg" alt="precolomb_11.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/precolombinos12"><img src="/assets/img/paintings/precolomb_12.jpeg" alt="precolomb_12.jpeg" /></a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>De las montañas del sur</em> <br /> <em>100x80</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Sur andino</em> <br /> <em>110x80</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>De la tierra muisca</em> <br /> <em>100x80</em> <br /> <em>Oleo sobre lienzo</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="/gallery/precolombinos13"><img src="/assets/img/paintings/precolomb_13.jpeg" alt="precolomb_13.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/precolombinos14"><img src="/assets/img/paintings/precolomb_14.jpeg" alt="precolomb_14.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/precolombinos15"><img src="/assets/img/paintings/precolomb_15.jpeg" alt="precolomb_15.jpeg" /></a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Tabloides</em> <br /> <em>110x80</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Vestigio Indio</em> <br /> <em>100x85</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Hallazgo en el sur</em> <br /> <em>100x75</em> <br /> <em>Oleo sobre lienzo</em></td>
+    </tr>
+  </tbody>
+</table>
+<h1 id="legado-andino">Legado Andino</h1>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><a href="/gallery/painting1"><img src="/assets/img/paintings/drawing_1.jpeg" alt="drawing_1.jpeg" /></a></th>
+      <th style="text-align: center"><a href="/gallery/painting2"><img src="/assets/img/paintings/drawing_2.jpeg" alt="drawing_2.jpg" /></a></th>
+      <th style="text-align: center"><a href="/gallery/painting3"><img src="/assets/img/paintings/drawing_3.jpeg" alt="drawing_3.jpg" /></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Guerrero emplumado del sur</em> <br /> <em>170x70</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Sol de los pastos</em> <br /> <em>100x60</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Coqueros del sur</em> <br /> <em>80x60</em> <br /> <em>Oleo sobre lienzo</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="/gallery/painting4"><img src="/assets/img/paintings/drawing_4.jpeg" alt="drawing_4.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/painting5"><img src="/assets/img/paintings/drawing_5.jpeg" alt="drawing_5.jpg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/painting6"><img src="/assets/img/paintings/drawing_6.jpeg" alt="drawing_6.jpg" /></a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Ansestro trenzado</em> <br /> <em>100x60</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Luna de encanto</em> <br /> <em>100x60</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Gritones</em> <br /> <em>100x60</em> <br /> <em>Oleo sobre lienzo</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="/gallery/painting7"><img src="/assets/img/paintings/drawing_7.jpeg" alt="drawing_7.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/painting8"><img src="/assets/img/paintings/drawing_8.jpeg" alt="drawing_8.jpg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/painting9"><img src="/assets/img/paintings/drawing_9.jpeg" alt="drawing_9.jpg" /></a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Andinos</em> <br /> <em>80x60</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Encanto ansestral</em> <br /> <em>110x80</em> <br /> <em>Oleo sobre lienzo</em></td>
+      <td style="text-align: center"><em>Encanto del solar</em> <br /> <em>110x80</em> <br /> <em>Oleo sobre lienzo</em></td>
+    </tr>
+  </tbody>
+</table>
+<h1 id="niños-del-sur">Niños del sur</h1>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><a href="/gallery/painting10"><img src="/assets/img/paintings/drawing_10.jpeg" alt="drawing_10.jpeg" /></a></th>
+      <th style="text-align: center"><a href="/gallery/painting11"><img src="/assets/img/paintings/drawing_11.jpeg" alt="drawing_11.jpg" /></a></th>
+      <th style="text-align: center"><a href="/gallery/painting12"><img src="/assets/img/paintings/drawing_12.jpeg" alt="drawing_12.jpg" /></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Ocarinas</em> <br /> <em>60x60</em> <br /> <em>Oleo sobre lona</em></td>
+      <td style="text-align: center"><em>De la tierra de los pastos</em> <br /> <em>60x85</em> <br /> <em>Oleo sobre lona</em></td>
+      <td style="text-align: center"><em>Gesto-ocarina</em> <br /> <em>60x60</em> <br /> <em>Oleo sobre lona</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="/gallery/painting13"><img src="/assets/img/paintings/drawing_13.jpeg" alt="drawing_13.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/painting14"><img src="/assets/img/paintings/drawing_14.jpeg" alt="drawing_14.jpg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/painting15"><img src="/assets/img/paintings/drawing_15.jpeg" alt="drawing_15.jpg" /></a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Gritones</em> <br /> <em>60x85</em> <br /> <em>Oleo sobre lona</em></td>
+      <td style="text-align: center"><em>Los del sur</em> <br /> <em>60x60</em> <br /> <em>Oleo sobre lona</em></td>
+      <td style="text-align: center"><em>Gestos</em> <br /> <em>60x60</em> <br /> <em>Oleo sobre lona</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="/gallery/painting16"><img src="/assets/img/paintings/drawing_16.jpeg" alt="drawing_16.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/painting17"><img src="/assets/img/paintings/drawing_17.jpeg" alt="drawing_17.jpg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/painting18"><img src="/assets/img/paintings/drawing_18.jpeg" alt="drawing_18.jpg" /></a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Pastos</em> <br /> <em>60x60</em> <br /> <em>Oleo sobre lona</em></td>
+      <td style="text-align: center"><em>Niña con cuencos</em> <br /> <em>60x60</em> <br /> <em>Oleo sobre lona</em></td>
+      <td style="text-align: center"><em>Niño con ocarinas</em> <br /> <em>60x60</em> <br /> <em>Oleo sobre lona</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="/gallery/painting19"><img src="/assets/img/paintings/drawing_19.jpeg" alt="drawing_19.jpeg" /></a></td>
+      <td style="text-align: center"><a href="/gallery/painting20"><img src="/assets/img/paintings/drawing_20.jpeg" alt="drawing_20.jpg" /></a></td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Rostros</em> <br /> <em>60x60</em> <br /> <em>Oleo sobre lona</em></td>
+      <td style="text-align: center"><em>Del sur de Colombia</em> <br /> <em>60x85</em> <br /> <em>Oleo sobre lona</em></td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+</table>
+  
+  </section>
+  <!-- Tag list for portfolio -->
+  
+  
+  <div class="tag-list"></div>
+</article>
+      <!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+    </div>
+    <footer class="site-footer">
     <p class="text">
         ivanbravo2644@gmail.com | Copyright 2022</p>
-    <div class="footer-icons">
-        <ul>
-            <!-- Social icons from Font Awesome, if enabled -->        </ul>
-    </div>
+            <div class="footer-icons">
+                <ul>
+                <!-- Social icons from Font Awesome, if enabled -->
+                
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                </ul>
+            </div>
 </footer>
-</body>
+  </body>
 </html>
