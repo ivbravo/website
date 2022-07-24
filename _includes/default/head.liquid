@@ -57,8 +57,10 @@
     </script>
 
     {% if site.cookie_consent %}
-        <span id="cookie-notice"><span>{{ site.data.language.str_cookie_disclaimer | default: "We would like to use third party cookies and scripts to improve the functionality of this website." }}
-          </span><a id="cookie-notice-accept" class="button">{{ site.data.language.str_cookie_approve | default: "Approve" }}</a>
+          {% capture str_cookie_disclaimer %}{% t str_cookie_disclaimer %}{% endcapture %}
+          <span id="cookie-notice"><span>{{ str_cookie_disclaimer }}
+          {% capture str_cookie_approve %}{% t str_cookie_approve %}{% endcapture %}
+          </span><a id="cookie-notice-accept" class="button">{{ str_cookie_approve }}</a>
         </span>
     {% endif %}
     {% if site.google_analytics %}

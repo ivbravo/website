@@ -30,8 +30,10 @@
       const analyticsName = 'G-29HPLBP4QY';
     </script>
     
-        <span id="cookie-notice"><span>We would like to use third party cookies and scripts to improve the functionality of this website.
-          </span><a id="cookie-notice-accept" class="button">Approve</a>
+          
+          <span id="cookie-notice"><span>Nos gustaría usar cookies propias y de terceros para obtener datos estadísticos de la navegación de nuestros usuarios y mejorar nuestros servicios.
+          
+          </span><a id="cookie-notice-accept" class="button">Aceptar</a>
         </span>
     
     
@@ -455,6 +457,7 @@
 	padding-bottom: 56.333%;
 	height: 0;
     background: black;
+    display: none;
 }
 .videoWrapper iframe {
 	position: absolute;
@@ -463,6 +466,7 @@
 	width: 100%;
 	height: 100%;
     border: 0;
+    display: none;
 }
 </style>
 <script>
@@ -479,7 +483,7 @@ function mp3_embed() {
                 if (!(mp3[1].indexOf('controls=0') > -1)) mp3par += ' controls ';
                 if (mp3[1].indexOf('preload=1') > -1) mp3par += ' preload ';
             }
-            var newInnerHTML = `<audio ${mp3par} > <source src="${mp3url}" type="audio/mpeg">Your browser does not support the audio element.</audio>  `;
+            var newInnerHTML = `<audio hidden="" ${mp3par} > <source src="${mp3url}" type="audio/mpeg">Your browser does not support the audio element.</audio>  `;
             p[i].innerHTML = newInnerHTML;
         }
     }
