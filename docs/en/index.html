@@ -425,12 +425,14 @@ function mp3_embed() {
                 if (!(mp3[1].indexOf('controls=0') > -1)) mp3par += ' controls ';
                 if (mp3[1].indexOf('preload=1') > -1) mp3par += ' preload ';
             }
-            var newInnerHTML = `<audio hidden="" ${mp3par} > <source src="${mp3url}" type="audio/mpeg">Your browser does not support the audio element.</audio>  `;
+            var newInnerHTML = `<audio hidden="" ${mp3par} id="myaudiofile"> <source src="${mp3url}" type="audio/mpeg">Your browser does not support the audio element.</audio>  `;
             p[i].innerHTML = newInnerHTML;
         }
     }
 }
 mp3_embed();
+var audio = document.getElementById('myaudiofile');
+audio.volume = 0.01;
 </script>
   </body>
 </html>
