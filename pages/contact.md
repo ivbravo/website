@@ -1,9 +1,9 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: contact
+permalink: /contact/
 feature-img: "assets/img/lacruz.jpeg"
-order: 2
+order: 3
 ---
 
 {% translate_file pages/about.md %}
