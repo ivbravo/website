@@ -1962,6 +1962,7 @@ select.form-control[size], select.form-control[multiple] {
 
 textarea.form-control {
   height: auto;
+  width: auto;
 }
 
 .form-group {
