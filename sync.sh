@@ -6,7 +6,7 @@ do
   sed -i '' 's#http://localhost:4000#https://bozettoartgallery.com#g' docs/$value
 done
 
-for value in about gallery search tags en/about en/gallery en/search en/tags
+for value in about contact gallery search tags en/about en/contact en/gallery en/search en/tags
 do
   cat _site/$value/index.html | grep . > docs/$value/index.html
   sed -i '' 's#http://localhost:4000#https://bozettoartgallery.com#g' docs/$value/index.html
